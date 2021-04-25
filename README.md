@@ -1,5 +1,5 @@
 ### About Me
-![Newton](/images/android.gif)
+![Newton](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/android.gif)
 
 <!--
 **nmbazima/nmbazima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
