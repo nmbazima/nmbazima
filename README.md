@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on **AI, DataOps**
 * 🤔 I’m looking for help with **AI**
 * 💬 Ask me about **ArchLinux, PowerBI, SQL and Python**
-* 📫 How to reach me: **![Linkedin Profile](https://www.linkedin.com/in/nmbazima/)**
+* 📫 How to reach me: **(https://www.linkedin.com/in/nmbazima/)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmbazima" alt="nmbazima" /> </p> 
 ### Languages and Tools: 
