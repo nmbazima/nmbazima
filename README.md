@@ -1,5 +1,5 @@
 ### About Me ![Newton](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/android.gif)
-![C++](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/C%2B%2B.svg)
+![C++](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/C%2B%2B.svg) ![Github](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/Github.svg) ![Jupyter](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/Jupyter.svg) ![Linux](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/LINUX.svg) ![Postgre](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/POSTGRE.svg) ![Python](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/PYTHON.svg) ![VSCODE](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/VSCODE.svg) ![WINDOWS](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/WINDOWS.svg)
 <!--
 **nmbazima/nmbazima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
