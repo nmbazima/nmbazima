@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 * 💬 Ask me about **ArchLinux, PowerBI, SQL and Python**
 * 📫 How to reach me: **![Newton's Linkedin Profile](https://www.linkedin.com/in/nmbazima/)**
 
+<img align="right" src="./assets/diggi-media.gif" alt="gif">
+
 [![Newton's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmbazima&show_icons=true&theme=highcontrast)](https://github.com/nmbazima/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmbazima&show_icons=true&theme=chartreuse-dark)](https://github.com/nmbazima/github-readme-stats)
