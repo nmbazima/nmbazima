@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * 📫 How to reach me: **(https://www.linkedin.com/in/nmbazima/)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmbazima" alt="nmbazima" /> </p> 
-### Languages and Tools: 
+Languages and Tools: 
 ![Python](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/PYTHON.svg) 
 ![Linux](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/LINUX.svg) 
 ![Jupyter](https://github.com/nmbazima/nmbazima.github.io/blob/master/assets/Jupyter.svg) 
