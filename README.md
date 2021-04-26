@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Report Development and Visualizations**
-- 🌱 I’m currently learning **Data Engineering**
-- 👯 I’m looking to collaborate on **AI, DataOps**
-- 🤔 I’m looking for help with **AI**
-- 💬 Ask me about **ArchLinux, PowerBI, SQL and Python**
-- 📫 How to reach me: **![Linkedin Profile](https://www.linkedin.com/in/nmbazima/)**
+* 🔭 I’m currently working on **Report Development and Visualizations**
+* 🌱 I’m currently learning **Data Engineering**
+* 👯 I’m looking to collaborate on **AI, DataOps**
+* 🤔 I’m looking for help with **AI**
+* 💬 Ask me about **ArchLinux, PowerBI, SQL and Python**
+* 📫 How to reach me: **![Linkedin Profile](https://www.linkedin.com/in/nmbazima/)**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
