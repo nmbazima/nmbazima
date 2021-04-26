@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmbazima" alt="nmbazima" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmbazima" alt="nmbazima" /> </p>;
+
 * 🔭 I’m currently working on **Report Development and Visualizations**
 * 🌱 I’m currently learning **Data Engineering**
 * 👯 I’m looking to collaborate on **AI, DataOps**
